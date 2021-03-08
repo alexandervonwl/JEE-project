@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5ecc992-d07d-4627-b2d5-58893ed2ee14" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JEE-Test" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VftQ95g2mO2pRVBg0hpycZjT1t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Sem1/BD/Incercari proiect/Incercare4-proiectBD/backend_proiect" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.18411553" />
+    <property name="project.structure.side.proportion" value="0.30672747" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/META-INF" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn org.codehaus.cargo:cargo-maven2-plugin:start" />
+      <command value="mvn compile" />
+      <command value="mvn org.codehaus.cargo:cargo-maven2-plugin:run " />
+      <command value="mvn org.codehaus.cargo:cargo-maven2-plugin:redeploy" />
+      <command value="mvn org.codehaus.cargo:cargo-maven2-plugin:run" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.Start server &amp; deploy app">
+    <configuration name="Redeploy" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="org.codehaus.cargo:cargo-maven2-plugin:redeploy" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Start server &amp; deploy app" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="org.codehaus.cargo:cargo-maven2-plugin:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Stop server" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="org.codehaus.cargo:cargo-maven2-plugin:stop" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.Start server &amp; deploy app" />
+      <item itemvalue="Maven.Stop server" />
+      <item itemvalue="Maven.Redeploy" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5ecc992-d07d-4627-b2d5-58893ed2ee14" name="Default Changelist" comment="" />
+      <created>1577655957587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577655957587</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1614790616757">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1614790616757" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614541575211">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1024.110.1024.728@0.0.1280.680" timestamp="1614541575211" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1614344186271" />
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser" timestamp="1614792335958">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1614792335958" />
+    <state x="216" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614717846164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="216" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1614717846164" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1615043142660">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1615043142660" />
+    <state width="1237" height="214" key="GridCell.Tab.0.bottom" timestamp="1614845682940">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="214" key="GridCell.Tab.0.bottom/0.0.1280.680/-1024.110.1024.728@0.0.1280.680" timestamp="1614845682940" />
+    <state width="1237" height="259" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1614796765741" />
+    <state width="1237" height="214" key="GridCell.Tab.0.center" timestamp="1614845682940">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="214" key="GridCell.Tab.0.center/0.0.1280.680/-1024.110.1024.728@0.0.1280.680" timestamp="1614845682940" />
+    <state width="1237" height="259" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1614796765740" />
+    <state width="1237" height="214" key="GridCell.Tab.0.left" timestamp="1614845682940">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="214" key="GridCell.Tab.0.left/0.0.1280.680/-1024.110.1024.728@0.0.1280.680" timestamp="1614845682940" />
+    <state width="1237" height="259" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1614796765740" />
+    <state width="1237" height="214" key="GridCell.Tab.0.right" timestamp="1614845682940">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="214" key="GridCell.Tab.0.right/0.0.1280.680/-1024.110.1024.728@0.0.1280.680" timestamp="1614845682940" />
+    <state width="1237" height="259" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1614796765740" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1615043116430">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1615043116430" />
+    <state x="459" y="181" width="672" height="677" key="run.anything.popup" timestamp="1614845181177">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="459" y="181" width="672" height="677" key="run.anything.popup/0.0.1280.680/-1024.110.1024.728@0.0.1280.680" timestamp="1614845181177" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1614796213023" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1614542513011">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-1024.110.1024.728@0.0.1280.680" timestamp="1614542513011" />
+  </component>
+</project>
